@@ -2,7 +2,9 @@
   "posts": [
     { "id": 1, "title": "MRB", "description": "Partno settings percentage.", "percentage": 10, "wtype":"progressbar" },
     { "id": 2, "title": "Tickets", "description": "Tickets settings percentage.", "percentage": 89,  "wtype":"progressbar" },
-    { "id": 3, "title": "Batas", "description": "Batas settings percentage.", "percentage": 64,  "wtype":"progressbar" }
+    { "id": 3, "title": "Batas", "description": "Batas settings percentage.", "percentage": 64,  "wtype":"progressbar" },
+     { "id": 4, "title": "Assignment", "description": "Assignment settings percentage.", "wtype":"spinner" },
+     { "id": 5, "title": "Downtime", "description": "Downtime settings percentage.",  "wtype":"spinner" }
   ],
   "icons":[
   { "title": 1, "icon":"fa-area-chart" },
